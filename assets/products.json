@@ -1,0 +1,54 @@
+{
+	"items": [
+		{
+			"nombre": "Producto A",
+			"descripcion": "descripcion",
+			"precio": 68
+		},
+		{
+			"nombre": "Producto B",
+			"descripcion": "aca va la descripcion del producto",
+			"precio": 77
+		},
+		{
+			"nombre": "Producto C",
+			"descripcion": "aca va la descripcion del producto",
+			"precio": 92
+		},
+		{
+			"nombre": "Producto D",
+			"descripcion": "aca va la descripcion del producto",
+			"precio": 25
+		},
+		{
+			"nombre": "Producto E",
+			"descripcion": "aca va la descripcion del producto",
+			"precio": 30
+		},
+		{
+			"nombre": "Producto F",
+			"descripcion": "aca va la descripcion del producto",
+			"precio": 101
+		},
+		{
+			"nombre": "Producto G",
+			"descripcion": "aca va la descripcion del producto",
+			"precio": 29
+		},
+		{
+			"nombre": "Producto H",
+			"descripcion": "aca va la descripcion del producto",
+			"precio": 84
+		},
+		{
+			"nombre": "Producto I",
+			"descripcion": "aca va la descripcion del producto",
+			"precio": 75
+		},
+		{
+			"nombre": "Producto J",
+			"descripcion": "aca va la descripcion del producto",
+			"precio": 400
+		}
+	]
+}
